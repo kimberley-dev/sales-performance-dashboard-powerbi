@@ -1,43 +1,54 @@
-# Sales Performance Analysis Dashboard
+# Retail Revenue Insights Dashboard
 
 ## 📊 Project Overview
-This project is a Power BI dashboard analyzing sales performance across product categories, regions, and customer segments.
+This Power BI dashboard analyzes sales performance, marketing effectiveness, and customer segment contributions for a retail business. The goal is to identify revenue drivers and provide actionable insights for decision‑makers.
 
-The goal of this project is to identify key drivers of revenue and uncover insights that can support business decision-making.
-
----
-
-## 📁 Dataset
-The dataset includes:
-- Product Category
-- Region
-- Customer Segment
-- Marketing Spend
-- Customer Rating
-- Sales Revenue
+**Tools used:** Power BI Desktop  
+**Dataset:** Synthetic retail sales data (product category, region, customer segment, marketing spend, customer rating, etc.)
 
 ---
 
-## 📌 Key Insights
-- Certain product categories generate significantly higher revenue.
-- High-income customer segments contribute the most to sales.
-- Promotions positively impact sales revenue.
-- Increased marketing spend is associated with higher revenue.
+## 📸 Dashboard Previews
+
+### Page 1: Sales Overview
+![photo_1_2026-04-04_21-08-54](https://github.com/user-attachments/assets/a0a3b57b-978a-4a11-89aa-ffbd26ea3232)
+
+### Page 2: Marketing Insights
+![Marketing Insights](https://github.com/user-attachments/assets/b480a338-3c11-4238-99ec-b8f96ce42f49)
+
 
 ---
 
-## 🛠 Tools Used
-- Power BI
-- Data Visualization
-- Basic Data Analysis
+## 📌 Key Insights (Human‑Written Commentary)
+
+- **Top‑performing product category:** Electronics generated the highest revenue ($1.10M), accounting for 27.7% of total sales. It also had the largest profit margin, with revenue exceeding production cost by $203,698.
+- **Regional performance:** The North region led with $1.07M in sales, 11.35% higher than the lowest‑performing East region.
+- **Promotions work:** Sales with promotions contributed 48.71% ($2.02M) of total revenue – a near‑even split, but promotions clearly drive volume.
+- **Customer segments:** Revenue is well‑distributed among income groups: Low Income (35.08%), High Income (33.21%), Middle Income (31.71%). No single segment dominates, but Low Income is slightly ahead.
+- **Correlations:** Marketing spend and economic index both show a positive correlation with sales revenue (as visible in the scatter plots). Higher investment tends to yield higher returns.
+- **Interactive feature:** Use the **Region slicer** on the Marketing Insights page to filter all visuals by East, North, South, or West.
 
 ---
 
-## 📎 Files
-- Power BI Dashboard (.pbix)
-- Exported Dashboard (.pdf)
+## 🛠 How to Use the Dashboard (Interactivity)
+
+- Click on any bar in the **Sales Revenue by Region** chart to cross‑filter all other visuals.
+- Use the **Region slicer** (page 2) to drill down into specific geographic areas.
+- Hover over any data point to see exact values.
 
 ---
 
-## 👩🏽‍💻 Author
-Kimberley Miller
+## 📁 Files in this Repository
+
+- `Retail Revenue Insights Dashboard K.MILLER.pbix` – Power BI source file  
+- `Retail Revenue Insights Dashboard K.MILLER.pdf` – Exported PDF  
+- `realistic_linear_regression_dataset.csv` – Raw dataset  
+
+
+---
+
+## 👩‍💻 Author
+**Kimberley Miller**  
+[LinkedIn](https://www.linkedin.com/in/kimberleymiller-sjw/) | [GitHub](https://github.com/kimberley-dev)
+
+*March 2026 – Portfolio Project*
