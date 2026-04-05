@@ -1,5 +1,9 @@
 # Retail Revenue Insights Dashboard
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+
 ## 📊 Project Overview
 This Power BI dashboard analyzes sales performance, marketing effectiveness, and customer segment contributions for a retail business. The goal is to identify revenue drivers and provide actionable insights for decision‑makers.
 
@@ -43,7 +47,14 @@ This Power BI dashboard analyzes sales performance, marketing effectiveness, and
 - `Retail Revenue Insights Dashboard K.MILLER.pbix` – Power BI source file  
 - `Retail Revenue Insights Dashboard K.MILLER.pdf` – Exported PDF  
 - `realistic_linear_regression_dataset.csv` – Raw dataset  
+---
 
+## 📁 Data Source
+
+The dataset used in this project is from Kaggle:  
+[Realistic Sales Revenue Dataset](https://www.kaggle.com/datasets/drisrarahmad/realistic-sales-revenue-dataset) by Drisrar Ahmad.
+
+*This dataset was used for educational and portfolio purposes only.*
 
 ---
 
